@@ -1,1 +1,2 @@
 print('coffe')
+print('tea')
