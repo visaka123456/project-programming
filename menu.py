@@ -1,2 +1,0 @@
-print('coffe')
-print('tea')
